@@ -1,1 +1,1 @@
-# This is the place where i store the adventofcode.com 2020 challenges.
+# This is the place where i save the answer for adventofcode.com 2020 challenges.
