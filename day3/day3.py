@@ -1,7 +1,3 @@
-import os 
-from random import sample
-
-
 def readfromtxt():
     files = open('input.txt', 'r') 
     all_trails = []
